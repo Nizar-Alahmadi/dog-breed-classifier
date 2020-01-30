@@ -1,7 +1,5 @@
 # Data Scientist Nanodegree
 
-# Convolutional Neural Networks
-
 # Project: Dog Breed Classifier
 
 # Project Overview
